@@ -1,0 +1,14 @@
+<snippet>
+	<content>
+		<![CDATA[
+<a class="btn btn-success" type="submit" href="#" title="Clique para criar um novo">
+	<i class="fas fa-plus"></i>
+	Criar Novo
+</a>
+		]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>criar</tabTrigger>
+	<!-- Hello, this is a snippet.Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

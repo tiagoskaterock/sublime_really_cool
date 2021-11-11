@@ -1,0 +1,14 @@
+<snippet>
+	<content>
+		<![CDATA[
+<a class="btn btn-sm btn-primary" href="#" title="Clique para editar">
+  <i class="fas fa-edit"></i>
+  Editar
+</a>
+		]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>editar</tabTrigger>
+	<!-- Hello, this is a snippet.Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

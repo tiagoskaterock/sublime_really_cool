@@ -1,0 +1,14 @@
+<snippet>
+	<content>
+		<![CDATA[
+<button class="btn btn-danger btn-sm" type="submit" name="submit" value="Excluir" title="Clique para excluir" data-toggle="modal" data-target="#modal_excluir">
+  <i class="fas fa-trash-alt"></i>
+  Excluir
+</button>
+		]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>excluir</tabTrigger>
+	<!-- Hello, this is a snippet.Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

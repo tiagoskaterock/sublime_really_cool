@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+// mensagem de sucesso
+Session::flash('mensagem', 'Categoria criada com sucesso.');
+
+// classe do alert da mensagem
+Session::flash('classe', 'success');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>flash</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
+	
+
+

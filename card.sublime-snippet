@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+<div class="col-lg-3 col-6">
+  <div class="small-box bg-primary">
+    <div class="inner">
+      <h3>69</h3>
+
+      <p>Items</p>
+    </div>
+    <div class="icon">
+      <i class="fas fa-icon"></i>
+    </div>
+    <a title="Clique para ver todos os items" href="#" class="small-box-footer">Veja Mais <i class="fas fa-arrow-circle-right"></i></a>
+  </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>card</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.php, source.html</scope> -->
+</snippet>
+	
+
+

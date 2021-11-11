@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+  <label for="imagem">Imagem</label>
+  <input class="form-control-file" type="file" name="imagem" id="imagem" title="Clique para adicionar uma imagem"></input>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>file</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>Blade</scope> -->
+</snippet>
+	
+
+

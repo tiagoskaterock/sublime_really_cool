@@ -1,0 +1,29 @@
+<snippet>
+	<content>
+		<![CDATA[
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at maximus libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consectetur tempus velit, a tincidunt ligula ultricies vitae. Mauris vel rutrum sapien. Suspendisse ultricies dictum fringilla. Curabitur non posuere urna, ac lobortis lacus. Aliquam ac laoreet felis. Etiam nunc erat, mattis vitae volutpat in, volutpat vitae magna. Pellentesque quis libero vitae turpis feugiat mattis a ut urna. Etiam gravida tellus erat, eget placerat velit aliquam a. Phasellus sed erat sodales nisl consequat sollicitudin. Nunc tempus diam nulla, a ornare lectus venenatis ultrices. Praesent id metus id lacus posuere volutpat vel a turpis. In dapibus lorem nisi, eu rhoncus augue sollicitudin gravida. Phasellus vitae tortor tincidunt, iaculis diam a, luctus purus. Nullam ut libero eu arcu finibus tristique vitae eu nulla.
+</p>
+
+<p>
+  Pellentesque venenatis a nisl quis consequat. Praesent pretium pulvinar dui, sed malesuada ante ultricies in. Phasellus ornare mi ac efficitur tincidunt. Morbi lacinia ut est ac ultrices. Aenean nec neque ut massa posuere vehicula eget eget nibh. Fusce nec ex sed erat convallis euismod. Pellentesque gravida convallis erat quis interdum.
+</p>
+
+<p>
+  hasellus facilisis leo eu vulputate fringilla. Ut erat lectus, vestibulum sed tortor vel, vulputate euismod arcu. Suspendisse vitae metus vehicula, auctor nibh consequat, auctor enim. Vivamus congue ac quam sed dapibus. In eros diam, consectetur eu ultricies ut, dignissim eget odio. Aenean ante mauris, aliquam sit amet orci ac, auctor ultricies eros. Donec lectus urna, tempus sit amet porta a, ullamcorper eget nunc. Etiam eu rutrum turpis, sed tempor eros. Nunc tempus ullamcorper ultrices. Phasellus luctus iaculis arcu. Phasellus dictum odio magna, sit amet mattis odio dapibus in. Sed odio turpis, sagittis quis finibus sollicitudin, blandit eget nisl.
+</p>
+
+<p>
+  Nulla pharetra euismod lacus nec pellentesque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ac nibh ac metus efficitur pellentesque. Aliquam et egestas erat. Nulla lacus velit, facilisis in accumsan ut, tempor quis dui. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin ut nunc ipsum.
+</p>
+
+<p>
+  Praesent imperdiet, lectus vitae accumsan vehicula, neque mi aliquet nisl, id tempus enim erat non massa. Integer iaculis lorem risus, et bibendum elit rhoncus ac. Etiam congue sapien eu urna egestas dictum nec sed ipsum. Fusce rhoncus in ex at rhoncus. Proin dapibus lacus ac nunc imperdiet lobortis. Quisque a elit ut turpis mattis ultricies. Etiam vel diam vel orci commodo suscipit nec eget ante. Maecenas varius blandit consectetur. Praesent quis finibus velit. Sed non eros consectetur, tincidunt nisi ac, consequat lectus. Vestibulum ullamcorper aliquam tortor, in porta leo pretium ut. Mauris eleifend elit vitae eros malesuada mollis. Phasellus vehicula lacus dui, eu venenatis eros pharetra vitae. Pellentesque interdum lacus a quam venenatis pretium.
+</p>
+		]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lorem</tabTrigger>
+	<!-- Hello, this is a snippet.Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

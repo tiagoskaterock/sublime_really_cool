@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+  <label for="conteudo">Conteúdo</label>
+  <textarea class="form-control" id="criar_vaga" name="conteudo" placeholder="Descrição da vaga"></textarea>
+</div>
+
+<script src="https://cdn.ckeditor.com/ckeditor5/24.0.0/classic/ckeditor.js"></script>
+
+<script>
+  ClassicEditor
+  .create( document.querySelector( '#criar_vaga' ) )
+  .catch( error => {
+      console.error( error );
+  } );
+</script>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>conteudo</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>Blade</scope> -->
+</snippet>
+	
+
+

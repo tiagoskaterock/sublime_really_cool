@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<div class="col-sm-6 col-lg-4 col-xl-2">			
+	<div class="info-box">
+	  <span class="info-box-icon bg-secondary"><i class="icone"></i></span>
+	  <div class="info-box-content">
+	    <span class="info-box-text" title="Ver requisitos"><a href='#'>Requisitos</a></span>
+	    <span class="info-box-number">69</span>
+	  </div>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>minicard</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>Blade</scope> -->
+</snippet>
+	
+
+
